@@ -12,11 +12,32 @@ A full-stack mobile application built with Flutter and Node.js that connects use
     <td align="center"><strong>Login Screen</strong></td>
     <td align="center"><strong>Home Screen</strong></td>
   </tr>
+ 
   <tr>
     <td><img src="assets/a2.jpg" alt="Register Screen" width="250"/></td>
     <td><img src="assets/a1.jpg" alt="Login Screen" width="250"/></td>
     <td><img src="assets/a3.jpg" alt="Home Screen" width="250"/></td>
+  </tr> 
+  <tr>
+    <td align="center"><strong>Banquets Form</strong></td>
+    <td align="center"><strong>Banquets Form</strong></td>
+    <td align="center"><strong>Home Screen</strong></td>
   </tr>
+  <tr>
+    <td><img src="assets/a4.jpg" alt="Register Screen" width="250"/></td>
+    <td><img src="assets/a7.jpg" alt="Login Screen" width="250"/></td>
+    <td><img src="assets/a6.jpg" alt="Home Screen" width="250"/></td>
+  </tr> 
+  <tr>
+    <td align="center"><strong>Memories Form</strong></td>
+    <td align="center"><strong>Memories Form</strong></td>
+    <td align="center"><strong>Home Screen</strong></td>
+  </tr>
+  <tr>
+    <td><img src="assets/a8.jpg" alt="Register Screen" width="250"/></td>
+    <td><img src="assets/a9.jpg" alt="Login Screen" width="250"/></td>
+    <td><img src="assets/a5.jpg" alt="Home Screen" width="250"/></td>
+  </tr> 
 </table>
 
 ---
