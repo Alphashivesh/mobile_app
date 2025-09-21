@@ -18,7 +18,7 @@ The frontend is a modern, cross-platform mobile application built with Flutter. 
 
 The Flutter project is organized into a clean and scalable structure to separate concerns and make the code easy to maintain.
 
-frontend_app/
+```frontend_app/
 └── lib/
 ├── main.dart             # App entry point
 ├── data/                 # Contains static data like lists (countries, currencies)
@@ -34,6 +34,7 @@ frontend_app/
 ├── choice_card.dart
 ├── cuisine_card.dart
 └── ... (other custom card widgets)
+````
 
 ### State Management & API Service
 
