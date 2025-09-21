@@ -102,7 +102,7 @@ Make sure you have the following software installed on your machine:
 ### Database Setup
 
 1.  Ensure your MySQL server is running.
-2.  Using a database management tool (like MySQL Workbench, DBeaver, or phpMyAdmin), run the setup.sql script provided in the project. This will create the app database and all the necessary tables.
+2.  Using a database management tool (like MySQL Workbench, DBeaver, or phpMyAdmin), run the db.sql script provided in the project. This will create the app database and all the necessary tables.
 
 ### Backend Setup
 
