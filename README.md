@@ -16,6 +16,10 @@ A full-stack mobile application built with Flutter and Node.js that connects use
     <td><img src="path/to/your/login_snapshot.png" alt="Login Screen" width="250"/></td>
     <td><img src="path/to/your/home_snapshot.png" alt="Home Screen" width="250"/></td>
     <td><img src="path/to/your/banquet_form_snapshot.png" alt="Banquet Form" width="250"/></td>
+    <td><img src="path/to/your/banquet_form_snapshot.png" alt="Banquet Form" width="250"/></td>
+    <td><img src="path/to/your/banquet_form_snapshot.png" alt="Banquet Form" width="250"/></td>
+    <td><img src="path/to/your/banquet_form_snapshot.png" alt="Banquet Form" width="250"/></td>
+    
   </tr>
 </table>
 
