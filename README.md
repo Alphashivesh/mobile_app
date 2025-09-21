@@ -4,47 +4,10 @@ A full-stack mobile application built with Flutter and Node.js that connects use
 
 ---
 
-## 📸 Snapshots
-
-<table>
-  <tr>
-    <td align="center"><strong>Register Screen</strong></td>
-    <td align="center"><strong>Login Screen</strong></td>
-    <td align="center"><strong>Home Screen</strong></td>
-  </tr>
- 
-  <tr>
-    <td><img src="assets/a2.jpg" alt="Register Screen" width="250"/></td>
-    <td><img src="assets/a1.jpg" alt="Login Screen" width="250"/></td>
-    <td><img src="assets/a3.jpg" alt="Home Screen" width="250"/></td>
-  </tr> 
-  <tr>
-    <td align="center"><strong>Banquets Form</strong></td>
-    <td align="center"><strong>Banquets Form</strong></td>
-    <td align="center"><strong>Home Screen</strong></td>
-  </tr>
-  <tr>
-    <td><img src="assets/a4.jpg" alt="Register Screen" width="250"/></td>
-    <td><img src="assets/a7.jpg" alt="Login Screen" width="250"/></td>
-    <td><img src="assets/a6.jpg" alt="Home Screen" width="250"/></td>
-  </tr> 
-  <tr>
-    <td align="center"><strong>Memories Form</strong></td>
-    <td align="center"><strong>Memories Form</strong></td>
-    <td align="center"><strong>Home Screen</strong></td>
-  </tr>
-  <tr>
-    <td><img src="assets/a8.jpg" alt="Register Screen" width="250"/></td>
-    <td><img src="assets/a9.jpg" alt="Login Screen" width="250"/></td>
-    <td><img src="assets/a5.jpg" alt="Home Screen" width="250"/></td>
-  </tr> 
-</table>
-
----
-
 ## 📜 Table of Contents
 
 - [About The Project](#about-the-project)
+- [Architectural Overview](#architectural-overview)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -52,13 +15,25 @@ A full-stack mobile application built with Flutter and Node.js that connects use
   - [Backend Setup](#backend-setup)
   - [Frontend Setup](#frontend-setup)
 - [Features](#features)
+- [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
+- [Snapshorts](#snapshorts)
 
 ---
 
 ## 📖 About The Project
 
 This application serves as a comprehensive platform for users to find and request services from various vendors. It features a dynamic home screen that lists all available service categories, a user registration and login system, and a unique, detailed request form for each category. The project is built with a modern tech stack, featuring a cross-platform Flutter application for the frontend and a robust Node.js REST API for the backend, all connected to a MySQL database.
+
+---
+
+## 🏛️ Architectural Overview
+
+This project follows a standard **client-server architecture**:
+
+* **Client (Flutter App)**: The mobile application that users interact with. It is responsible for the UI and user experience. It sends HTTP requests to the backend to fetch or submit data.
+* **Server (Node.js API)**: The backend acts as a bridge between the client and the database. It handles business logic, processes requests from the app, and interacts with the MySQL database.
+* **Database (MySQL)**: The database stores all persistent data, including user accounts, categories, and service requests.
 
 ---
 
@@ -148,6 +123,11 @@ Make sure you have the following software installed on your machine:
 
 ---
 
+##  📑 Project Structure 
+
+---
+
+
 ## 🔌 API Endpoints
 
 The backend provides the following RESTful API endpoints:
@@ -169,3 +149,54 @@ The backend provides the following RESTful API endpoints:
 | POST | /api/craft-requests       | Submits a craft request form.     |
 | POST | /api/smart-services-requests | Submits a service request form.   |
 | POST | /api/games-requests       | Submits a games request form.     |
+
+---
+
+## 📸 Snapshots
+
+<table>
+  <tr>
+    <td align="center"><strong>Register Screen</strong></td>
+    <td align="center"><strong>Login Screen</strong></td>
+    <td align="center"><strong>Home Screen</strong></td>
+  </tr>
+ 
+  <tr>
+    <td><img src="assets/a2.jpg" alt="Register Screen" width="250"/></td>
+    <td><img src="assets/a1.jpg" alt="Login Screen" width="250"/></td>
+    <td><img src="assets/a3.jpg" alt="Home Screen" width="250"/></td>
+  </tr> 
+  <tr>
+    <td align="center"><strong>Banquets Form</strong></td>
+    <td align="center"><strong>Banquets Form</strong></td>
+    <td align="center"><strong>Home Screen</strong></td>
+  </tr>
+  <tr>
+    <td><img src="assets/a4.jpg" alt="Register Screen" width="250"/></td>
+    <td><img src="assets/a7.jpg" alt="Login Screen" width="250"/></td>
+    <td><img src="assets/a6.jpg" alt="Home Screen" width="250"/></td>
+  </tr> 
+  <tr>
+    <td align="center"><strong>Memories Form</strong></td>
+    <td align="center"><strong>Memories Form</strong></td>
+    <td align="center"><strong>Home Screen</strong></td>
+  </tr>
+  <tr>
+    <td><img src="assets/a8.jpg" alt="Register Screen" width="250"/></td>
+    <td><img src="assets/a9.jpg" alt="Login Screen" width="250"/></td>
+    <td><img src="assets/a5.jpg" alt="Home Screen" width="250"/></td>
+  </tr> 
+</table>
+
+---
+
+## 🤝 Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
