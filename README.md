@@ -19,8 +19,6 @@ A full-stack mobile application built with Flutter and Node.js that connects use
   </tr>
 </table>
 
-> *Note*: To add your snapshots, replace "path/to/your/snapshot.png" with the actual path to your images. You can place the images in a folder like /assets/screenshots/ in your project repository.
-
 ---
 
 ## 📜 Table of Contents
