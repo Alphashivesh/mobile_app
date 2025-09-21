@@ -56,6 +56,8 @@ A full-stack mobile application built with Flutter and Node.js that connects use
 - [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
 - [Contribution](#contributing)
+- [Future Improvements](#future-improvements)
+- [Contact & License](#contact-license)
 
 ---
 
@@ -220,3 +222,31 @@ If you have a suggestion that would make this better, please fork the repo and c
 3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
+
+---
+
+## 🌟 Future Improvements
+
+While the core functionality is complete, here are some features planned for future development:
+
+-   **Vendor-side Application**: A separate app or web dashboard for vendors to view and bid on user requests.
+-   **Real-time Chat**: Implement a real-time chat feature between users and vendors using WebSockets.
+-   **Payment Gateway Integration**: Integrate a system like Stripe or Razorpay to handle transactions.
+-   **User Profile Management**: Allow users to view their request history and manage profile information.
+-   **Push Notifications**: Send notifications to users and vendors about new requests and bids.
+
+---
+
+## 📬 Contact
+
+Shivesh Kumar  - shiveshkumar73520@gmail.com
+
+Project Link: [https://github.com/Alphashivesh/mobile_app](https://github.com/Alphashivesh/mobile_app)
+
+---
+
+## 📝 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
