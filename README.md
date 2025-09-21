@@ -97,7 +97,7 @@ To get a local copy up and running, follow these simple steps.
 Make sure you have the following software installed on your machine:
 * Node.js ([Download here](https://nodejs.org/))
 * Flutter SDK ([Installation guide](https://flutter.dev/docs/get-started/install))
-* A MySQL server (like XAMPP, WAMP, or a standalone instance)
+* A MySQL server (like XAMPP, WAMP, MySQL Workbench or a standalone instance)
 
 ### Database Setup
 
