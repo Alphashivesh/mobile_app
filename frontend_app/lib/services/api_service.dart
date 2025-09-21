@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 
 class ApiService {
   //Always check your computer's current IP address using 'ipconfig' in the command prompt.
-  static const String _baseUrl = 'http://172.16.28.212:3000/api';  //172.16.28.212(staff)  or  172.16.125.91(student)
+  static const String _baseUrl = 'http://XXX.XX.XX.XXX:3000/api';
 
   Future<List<Map<String, dynamic>>> fetchCategories() async {
     try {
