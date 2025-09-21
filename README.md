@@ -163,6 +163,7 @@ Make sure you have the following software installed on your machine:
 
 ##  📑 Project Structure 
 
+```
 business-connect-app/
 ├── backend/
 │   ├── node_modules/
@@ -181,6 +182,7 @@ business-connect-app/
 │   └── pubspec.yaml
 │
 └── README.md
+```
 
 ---
 
