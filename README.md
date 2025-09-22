@@ -8,7 +8,7 @@ A full-stack mobile application built with Flutter and Node.js that connects use
 
 A complete video demonstration of the application, from user registration to submitting a service request, is available on YouTube. Click the thumbnail below to watch.
 
-[![Mobile App Demo]<img src = "https://github.com/Alphashivesh/mobile_app/blob/main/assets/a.jpg" height = "500"/>](https://www.youtube.com/watch?v=jGo0q6Jwf98)
+[<img src = "https://github.com/Alphashivesh/mobile_app/blob/main/assets/a.jpg" height = "500" width = "500"/>](https://www.youtube.com/watch?v=jGo0q6Jwf98)
 
 ---
 
