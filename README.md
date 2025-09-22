@@ -8,7 +8,7 @@ A full-stack mobile application built with Flutter and Node.js that connects use
 
 A complete video demonstration of the application, from user registration to submitting a service request, is available on YouTube. Click the thumbnail below to watch.
 
-[![Business Connect App Demo](https://img.youtube.com/vi/jGo0q6Jwf98/0.jpg)](https://www.youtube.com/watch?v=jGo0q6Jwf98)
+[![Mobile App Demo](https://github.com/Alphashivesh/mobile_app/blob/main/assets/a.jpg)](https://www.youtube.com/watch?v=jGo0q6Jwf98)
 
 ---
 
