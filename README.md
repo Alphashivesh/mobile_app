@@ -4,7 +4,7 @@ A full-stack mobile application built with Flutter and Node.js that connects use
 
 ---
 
-## [Live Demo 📸](https://youtu.be/jGo0q6Jwf98)
+## [Live Demo 🎥](https://youtu.be/jGo0q6Jwf98)
 
 ---
 
